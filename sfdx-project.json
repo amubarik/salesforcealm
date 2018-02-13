@@ -2,39 +2,39 @@
   "packageDirectories": [
     {
       "path": "ui",
-      "id": "<Replace with Package2 ID>",
+      "id": "0Ho1N000000CaSUSA0",
       "versionName": "v 1.0",
       "versionDescription": "ver 1.0",
       "versionNumber": "1.0.0.NEXT",
       "ancestorId": "",
       "dependencies": [
         {
-        "packageId": "<Replace with Core Package ID>",
+        "packageId": "0Ho1N000000CaSKS",
         "versionNumber": "1.0.0.LATEST"
         },
         {
-        "packageId": "<Replace with Logic Package ID>",
+        "packageId": "0Ho1N000000CaSPSA0",
         "versionNumber": "1.0.0.LATEST"
         }
         ]
     },
     {
       "path": "logic",
-      "id": "<Replace with Package2 ID>",
+      "id": "0Ho1N000000CaSPSA0",
       "versionName": "v 1.0",
       "versionDescription": "ver 1.0",
       "versionNumber": "1.0.0.NEXT",
       "ancestorId": "",
       "dependencies": [
         {
-        "packageId": "<Replace with Core Package ID>",
+        "packageId": "0Ho1N000000CaSKSA0",
         "versionNumber": "1.0.0.LATEST"
         }
         ]
     },
     {
       "path": "core",
-      "id": "<Replace with Package2 ID>",
+      "id": "0Ho1N000000CaSKSA0",
       "versionName": "v 1.0",
       "versionDescription": "ver 1.0",
       "versionNumber": "1.0.0.NEXT",
@@ -42,22 +42,22 @@
     },
     {
       "path": "security",
-      "id": "<Replace with Package2 ID>",
+      "id": "0Ho1N000000CaSZSA0",
       "versionName": "v 1.0",
       "versionDescription": "ver 1.0",
       "versionNumber": "1.0.0.NEXT",
       "ancestorId": "",
       "dependencies": [
         {
-        "packageId": "<Core Package ID>",
+        "packageId": "0Ho1N000000CaSKSA",
         "versionNumber": "1.0.0.LATEST"
         },
         {
-        "packageId": "<Logic Package ID>",
+        "packageId": "0Ho1N000000CaSPSA0",
         "versionNumber": "1.0.0.LATEST"
         },
         {
-          "packageId": "<UI Package ID>",
+          "packageId": "0Ho1N000000CaSUSA",
           "versionNumber": "1.0.0.LATEST"
           }
         ]
