@@ -1,6 +1,10 @@
 sudo: true
 dist: trusty
 cache: false
+# whitelist
+branches:
+  only:
+    - development
 env:
   global:
     - URL=https://developer.salesforce.com/media/salesforce-cli/sfdx-linux-amd64.tar.xz
