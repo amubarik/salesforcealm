@@ -9,7 +9,7 @@
       "ancestorId": "",
       "dependencies": [
         {
-        "packageId": "0Ho1N000000CaSKS",
+        "packageId": "0Ho1N000000CaSKSA0",
         "versionNumber": "1.0.0.LATEST"
         },
         {
@@ -49,7 +49,7 @@
       "ancestorId": "",
       "dependencies": [
         {
-        "packageId": "0Ho1N000000CaSKSA",
+        "packageId": "0Ho1N000000CaSKSA0",
         "versionNumber": "1.0.0.LATEST"
         },
         {
@@ -57,7 +57,7 @@
         "versionNumber": "1.0.0.LATEST"
         },
         {
-          "packageId": "0Ho1N000000CaSUSA",
+          "packageId": "0Ho1N000000CaSUSA0",
           "versionNumber": "1.0.0.LATEST"
           }
         ]

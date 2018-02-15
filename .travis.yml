@@ -4,10 +4,10 @@ cache: false
 env:
   global:
     - URL=https://developer.salesforce.com/media/salesforce-cli/sfdx-linux-amd64.tar.xz
-    - coreId=04tf4000001I1CsAAK
-    - logicId=04tf4000001I1CxAAK
-    - uiId=04tf4000001I1D2AAK
-    - securityId=04tf4000001I1D7AAK
+    - coreId=0Ho1N000000CaSKSA0
+    - logicId=0Ho1N000000CaSPSA0
+    - uiId=0Ho1N000000CaSUSA0
+    - securityId=0Ho1N000000CaSZSA0
 before_install:
 # delete the following line before encrypting your server.key
 - openssl aes-256-cbc -K $encrypted_8c437a15935b_key -iv $encrypted_8c437a15935b_iv
